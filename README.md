@@ -1,6 +1,6 @@
 # Desafio Lenovo - VR
 
-Protótipo de experimento em VR feito para uma vaga na Lenovo de Indaiatuba, usando Blender e Unity.
+Protótipo de experimento em VR feito para uma vaga na Lenovo de Indaiatuba, usando Blender e Unity Engine.
 
 ## Imagens
 
